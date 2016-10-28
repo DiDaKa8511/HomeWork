@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Runers Home Page</title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <div>Hello, Stranger!</div><br/>
+    <h1>Welcome to Runners Home<sup>TM</sup></h1><br/>
+    <h2>Runners Home<sup>TM</sup> is dedicatef to providing you with:</h2><br />
+    <ul tipe="disc">
+        <li>the most up-to-date information on running races.</li>
+        <li>the best resources for runners.</li>
+    </ul>
+    <hr width="95%" dize="3px" /> &copy; Runners Home. All rights reserved.
+
+</body>
+
+</html>
